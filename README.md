@@ -1,4 +1,4 @@
 my-sensu-configs
 ================
 
-Test sensu configs
+update Test sensu configs
